@@ -24,7 +24,7 @@
 [data-theme="dark"] #page-header::before {
   background: transparent !important;
 }
-
+/* 
 .clock-row,
 .card-clock-time {
   font-family: ZhuZiAYuanJWD !important;
@@ -67,4 +67,4 @@ hr:before,
   margin-top: 20px;
   border-radius: 8px;
   background-color: var(--card-bg);
-}
+} */
