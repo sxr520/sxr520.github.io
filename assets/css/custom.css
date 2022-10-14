@@ -18,6 +18,17 @@
   background-color: transparent !important;
 }
 
+#web_bg {
+  position: fixed;
+  z-index: -999;
+  width: 100%;
+  height: 100%;
+  background: url(https://sxr520.github.io/bc_image/bg1.jpg);
+  background-attachment: local;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 /*夜间模式伪类遮罩层透明*/
 /* [data-theme="dark"] #footer::before {
